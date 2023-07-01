@@ -94,7 +94,9 @@ AIMIMA@github
   <a href="https://www.linkedin.com/in/aimima/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
    <a href="https://www.facebook.com/abdullah.ibrahimmohammed/"><img src="https://img.shields.io/badge/facebook-1b74e4.svg?style=for-the-badge&logo=facebook&logoColor=ffffff"/></a>
    <a href="mailto:aimima.official@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
+
   ![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?username=@Aimima_official&logo=telegram&logoColor=fff&style=for-the-badge)
+  
   <a href="https://api.whatsapp.com/send?phone=201280249440" target="_blank"><img src="https://img.shields.io/badge/whatsapp-9EF19D.svg?style=for-the-badge&logo=whatsapp&logoColor=#ffff"/></a>
 
 </p>
