@@ -4,7 +4,7 @@ Hi, I'm Abdulllah Ibrahim!
 
 <br/>
 <p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+full+stack+developer;Always+learning+new+things;Youtuber;Freelancer&center=true&width=380&height=45"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&width=435&lines=I'm+a+Front-End+Developer;Freelancer;Always+Learning+a+new+things" alt="Typing SVG" /></a>
 </p>
 
 ```
